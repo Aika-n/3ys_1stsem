@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# 説明
+3年生前期に制作
+
+コインランドリーを使用する人向けの作品
+Flutterを使用したアプリケーション
+決済・QRコードを利用し洗濯機の施錠・開錠(形のみ実装)
+会員登録・ログイン・お気に入り店舗の登録等
