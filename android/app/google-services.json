@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780942054826",
+    "project_id": "mamorel-6a232",
+    "storage_bucket": "mamorel-6a232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780942054826:android:205ccc77eaeb57ef4187d3",
+        "android_client_info": {
+          "package_name": "com.example.loginform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780942054826-72jd85gk86u6l53mr9e9k04v86fumr20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALIOe09sp7XaVVc9F8OrQY-eA5NdMNv-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780942054826-72jd85gk86u6l53mr9e9k04v86fumr20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
